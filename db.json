@@ -1,1 +1,26 @@
+{
+  "pytania": [
+    {
+      "tresc": "Jak nazywał się papież pochodzący z Polski?",
+      "odpa": "Jan Paweł II",
+      "odpb": "Pius XII",
+      "odpc": "Benedykt XV",
+      "poprawna": 1
+    },
+    {
+      "tresc": "W którym roku Karol Wojtyła został wybrany na papieża?",
+      "odpa": "1968",
+      "odpb": "1978",
+      "odpc": "1988",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Jakie imię przyjął Karol Wojtyła po wyborze na papieża?",
+      "odpa": "Paweł VI",
+      "odpb": "Jan Paweł II",
+      "odpc": "Franciszek",
+      "poprawna": 2
+    }
+  ]
+}
 
